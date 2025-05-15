@@ -1,2 +1,2 @@
-# DianaAbdukowa.dithub.io
+# DianaAbdukowa.github.io
 тестовый
